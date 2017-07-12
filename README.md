@@ -14,3 +14,8 @@ Kind of an `Hello world` with P5.js
 Breakout or 1 player pong?
 
 ![](BreakOut/break_out.gif)
+
+#Travelling Salesman
+The worst solution ever to solve the travelling salesman problem
+
+![](TravellingSalesman/travelling_salesman.gif)
