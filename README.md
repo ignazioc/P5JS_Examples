@@ -19,3 +19,9 @@ Breakout or 1 player pong?
 The worst solution ever to solve the travelling salesman problem
 
 ![](TravellingSalesman/travelling_salesman.gif)
+
+
+#Bezier curve
+An attempt to generate looking good bezier curves
+
+![](Bezier/bezier.gif)
