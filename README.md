@@ -29,3 +29,6 @@ An attempt to generate looking good bezier curves
 
 # Clock
 ![](Clock/clock.gif)
+
+# Explosion
+![](ExplodingBalls/explosion.gif)
